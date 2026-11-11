@@ -11,3 +11,4 @@ wheels/
 
 # collector output
 out/
+data/
